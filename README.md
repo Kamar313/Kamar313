@@ -14,7 +14,7 @@
 const mohmad = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Tailwind CSS, Figma, Adobe XD, UX]
+  tools: [React, Redux, Tailwind CSS, Figma, Adobe XD, UX],
  
  challenge: "I am doing the #100DaysOfCode challenge focused on react"
 }
