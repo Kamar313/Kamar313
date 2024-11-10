@@ -1,6 +1,6 @@
 <h2> Hi, I'm Mohmad Kmar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" width="230">
-<p><em>Bachelor of Science at <a href="http://www.unb.br">Babasaheb Ambedkar Marathwada University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://www.thoughtworks.com">Mountblue Technology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Bachelor of Science at <a href="http://www.unb.br">Babasaheb Ambedkar Marathwada University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://www.getonecard.app/about">One Card</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
